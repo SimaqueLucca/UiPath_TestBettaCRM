@@ -1,0 +1,56 @@
+<Root>
+  <Accounts>
+    <Account>
+      <Name>First Bank</Name>
+      <Source>Web</Source>
+      <Active>True</Active>
+      <Status>New</Status>
+      <URL>www.firstbankof.com</URL>
+      <Street>30 South Main Street</Street>
+      <State>Lexington</State>
+      <City>Tenesi</City>
+      <Zip>38351</Zip>
+    </Account>
+    <Account>
+      <Name>eglue</Name>
+      <Source>Web</Source>
+      <Active>False</Active>
+      <Status>Pending</Status>
+      <URL>www.eglue.com</URL>
+      <Street>79 Hudson Street</Street>
+      <State>Hoboken,</State>
+      <City>New Jersey</City>
+      <Zip>07030</Zip>
+    </Account>
+    <Account>
+      <Name>Company1</Name>
+      <Source>Other</Source>
+      <Active>False</Active>
+      <Status>Closed</Status>
+      <URL>
+      </URL>
+      <Street>sesame</Street>
+      <State>
+      </State>
+      <City>State</City>
+      <Zip>54321</Zip>
+    </Account>
+  </Accounts>
+  <Contacts>
+    <Contact>
+      <FirstName>Gal</FirstName>
+      <LastName>Tesler</LastName>
+      <Phone>6238816</Phone>
+      <Salutation>Mr.</Salutation>
+      <Email>gal.tesler@somelie.com</Email>
+      <Account>eglue</Account>
+      <Street>
+      </Street>
+      <State>
+      </State>
+      <City>
+      </City>
+      <Zip>34529</Zip>
+    </Contact>
+  </Contacts>
+</Root>
